@@ -6,19 +6,21 @@
 
 Choose a plan based on your group's vibe. All plans account for January weather and reasonable driving distances.
 
+**Note:** These plans assume you have food and drinks stocked at the accommodation. Most meals can be eaten at home - go out strategically for experiences worth paying for.
+
 ---
 
 # Plan A: The Classic Bachelor Party
 
 *Distillery, casino vibes, speakeasies, and good food.*
 
-## Day 1 (Thu, Jan 22) - Arrival & Kingston Night Out
+## Day 1 (Thu, Jan 22) - Arrival & Night Out
 
-**Afternoon:** Settle into accommodation
+**Afternoon:** Settle in, stock up, pre-game at house
 
 **Evening:** Head to Kingston *(6 mi / 12 min)*
-- **Dinner:** Restaurant Kinsley (upscale New American in restored 19th-century bank)
-- **Bar Hopping:**
+- **Optional Dinner:** Restaurant Kinsley (upscale New American) - *or eat at house first*
+- **Bar Hopping:** (you have drinks at home, but worth checking out the scene)
   - Stockade Tavern - best cocktails in the area
   - Salt Box - best late-night spot, multiple unique rooms
   - Tubby's - live music, casual vibes
@@ -27,7 +29,9 @@ Choose a plan based on your group's vibe. All plans account for January weather 
 
 ## Day 2 (Fri, Jan 23) - Whiskey & Games
 
-### Morning: Tuthilltown Spirits Distillery
+### Breakfast: At house
+
+### Late Morning: Tuthilltown Spirits Distillery
 - **Location:** Gardiner, NY *(18 mi / 25 min)*
 - **Cost:** $30/person tour + tasting, $50/person cocktail workshop
 - **Hours:** Wed-Sun 12pm-6pm (Thu-Sun until 8pm)
@@ -38,31 +42,37 @@ Choose a plan based on your group's vibe. All plans account for January weather 
 - **Location:** Poughkeepsie Galleria *(18 mi / 25 min)*
 - **RPM Raceway:** $25-50/person for indoor go-karts up to 45mph
 - **Wreck Room HV:** $30-60/person - smash stuff for stress relief
+- **Lunch:** Grab something quick at Galleria food court or eat at house before/after
 
 ### Evening: Casino Night at Resorts World
 - **Location:** Monticello, NY *(48 mi / 55 min)*
 - **Details:** 18-table poker room, sportsbook, 150 table games, 2500 slots
-- **Cost:** Budget $50-200+
+- **Cost:** Budget $50-200+ (gambling only)
+- **Food:** Casino has restaurants, but eat at house before to save $$$
 - **Website:** [rwcatskills.com](https://rwcatskills.com/)
 
 ---
 
 ## Day 3 (Sat, Jan 24) - Cigars & Celebration
 
-### Late Morning: Havana on Hudson Cigar Lounge
+### Brunch: At house (sleep in, recover from casino)
+
+### Afternoon: Havana on Hudson Cigar Lounge
 - **Location:** *(20 mi / 25 min)*
-- **Cost:** $50+
+- **Cost:** $50+ (cigars + maybe 1-2 drinks)
 - **Details:** Premium cigars, craft cocktails, speakeasy atmosphere
+- **Note:** You have drinks at house - go for the cigar experience, not to get drunk
 
-### Afternoon: Keegan Ales Brewery
+### Late Afternoon: Keegan Ales Brewery
 - **Location:** Kingston *(6 mi / 12 min)*
-- **Cost:** Free tour Fri-Sun 1-6pm, $20-40 for drinks
+- **Cost:** Free tour Sat 1-6pm, maybe buy a few beers
 - **Details:** Award-winning Mother's Milk stout (NYT top 10)
+- **Note:** Worth a stop for the tour, but remember you're stocked at home
 
-### Evening: Final Dinner Celebration
-- **Option 1:** Shadows on the Hudson (elegant, river views)
-- **Option 2:** The Bowery Dugout (Kingston's oldest steakhouse since 1947)
-- **Nightcap:** BackBar hidden speakeasy in Hudson *(35 mi / 40 min)* - behind antique shop
+### Evening: Final Celebration
+- **Dinner at house:** Grill steaks, make it special - cheaper than restaurant
+- **Or splurge:** Shadows on the Hudson (elegant, river views) - one nice dinner out
+- **Nightcap at house:** BackBar speakeasy is cool but 40 min drive - maybe not worth it when you have drinks at home
 
 ---
 
@@ -72,10 +82,12 @@ Choose a plan based on your group's vibe. All plans account for January weather 
 |----------|------|
 | Distillery tour + tasting | $30-50 |
 | Go-karts + Rage room | $55-110 |
-| Casino | $50-200+ |
+| Casino (gambling) | $50-200+ |
 | Cigar lounge | $50+ |
-| Food/drinks (3 days) | ~$250-350 |
-| **Total** | **~$450-750** |
+| Eating out (1-2 meals) | ~$50-100 |
+| **Total** | **~$250-500** |
+
+*Most food/drinks from house supplies*
 
 ---
 
@@ -83,18 +95,19 @@ Choose a plan based on your group's vibe. All plans account for January weather 
 
 *High energy, competitive, outdoor activities.*
 
-## Day 1 (Thu, Jan 22) - Arrival & Local Fun
+## Day 1 (Thu, Jan 22) - Arrival & Chill
 
-**Afternoon:** Settle into accommodation
+**Afternoon:** Settle in, stock up, hang at house
 
-**Evening:** Kingston for dinner & drinks *(6 mi / 12 min)*
-- **Dinner:** Top Taste (James Beard-nominated Jamaican)
-- **Drinks:** Tubby's for live music
-- **Note:** Wood'n Wheel closed on Thursday - save for Day 2 or 3
+**Evening:** Eat & drink at house, get pumped for adventure days
+- **Note:** Wood'n Wheel closed on Thursday - save for Saturday
+- **Optional:** Quick trip to Kingston for a drink at Tubby's (live music) if restless
 
 ---
 
 ## Day 2 (Fri, Jan 23) - Full Adventure Day
+
+### Breakfast: Big breakfast at house (you'll need energy)
 
 ### Morning: Mid-Hudson Sporting Clays
 - **Location:** *(15 mi / 22 min)*
@@ -103,6 +116,8 @@ Choose a plan based on your group's vibe. All plans account for January weather 
 - **Note:** All skill levels welcome, rent guns if needed
 - **Website:** [midhudsonsporting.com](https://midhudsonsporting.com/)
 
+### Lunch: Back at house (quick refuel between activities)
+
 ### Afternoon: Paintball Sports NY
 - **Location:** Clintondale, NY *(15 mi / 20 min)*
 - **Cost:** $40/person (all-inclusive)
@@ -110,27 +125,32 @@ Choose a plan based on your group's vibe. All plans account for January weather 
 - **Details:** 16 themed fields on 150 acres, book ahead
 - **Website:** [paintballsportsny.com](https://www.paintballsportsny.com/)
 
-### Evening: Recovery Dinner
-- **Dinner:** Tortilla Taco Bar (tacos + cocktails)
-- **Drinks:** Keegan Ales Brewery - close by, good beer
+### Evening: Recovery at house
+- Cook dinner, drink beers, swap war stories from paintball
+- **Optional:** Quick stop at Keegan Ales Brewery *(12 min)* for free tour + a few pints
 
 ---
 
-## Day 3 (Sat, Jan 24) - Indoor Competition
+## Day 3 (Sat, Jan 24) - More Competition
 
-### Morning/Afternoon: Spins Bowl
-- **Location:** Poughkeepsie *(25 mi / 35 min)*
-- **Cost:** $30-50/person
-- **Details:** Bowling, laser tag, 50+ arcade games, axe throwing, billiards, full bar
+### Breakfast: At house
 
-### Alternative: SafeShoot Indoor Range
-- **Location:** Kingston *(6 mi / 12 min)*
-- **Cost:** $40-60/person
-- **Details:** 24 state-of-the-art lanes, gun rentals available, climate controlled
+### Morning: Wood'n Wheel Fun Center *(2 min)*
+- **Hours:** Sat 10am-10pm
+- **Cost:** $15-30/person
+- **Details:** Skating, laser tag, bumper cars, arcade - right next door!
 
-### Evening: Final Dinner
-- **Dinner:** The Cornell Restaurant + Bar (waterfront, signature steaks)
-- **Drinks:** Stockade Tavern for cocktails
+### Lunch: At house
+
+### Afternoon: Spins Bowl OR SafeShoot
+- **Spins Bowl:** Poughkeepsie *(25 mi / 35 min)* - $30-50/person
+  - Bowling, laser tag, 50+ arcade games, axe throwing, billiards
+- **SafeShoot:** Kingston *(6 mi / 12 min)* - $40-60/person
+  - 24 state-of-the-art lanes, climate controlled
+
+### Evening: Grill out at house
+- Make it a send-off BBQ
+- **Optional:** One round of drinks at Stockade Tavern *(12 min)* if you want to see Kingston
 
 ---
 
@@ -141,9 +161,11 @@ Choose a plan based on your group's vibe. All plans account for January weather 
 | Wood'n Wheel | $15-30 |
 | Sporting clays | $50-80 |
 | Paintball | $40 |
-| Spins Bowl | $30-50 |
-| Food/drinks (3 days) | ~$200-300 |
-| **Total** | **~$350-500** |
+| Spins Bowl or SafeShoot | $30-60 |
+| Optional drinks out | ~$20-40 |
+| **Total** | **~$160-250** |
+
+*All meals at house*
 
 ---
 
@@ -151,55 +173,60 @@ Choose a plan based on your group's vibe. All plans account for January weather 
 
 *Chill vibes, good food, breweries, spa.*
 
-## Day 1 (Thu, Jan 22) - Arrival & Wine
+## Day 1 (Thu, Jan 22) - Arrival & Chill
 
-**Afternoon:** Settle into accommodation
+**Afternoon:** Settle in, unwind at house
 
-**Evening:** Kingston for dinner & drinks *(6 mi / 12 min)*
-- **Dinner:** Le Canard Enchaine (French bistro)
-- **Wine:** Brunette Wine Bar - natural wines, expertly crafted food plates
-- **Nightcap:** Rough Draft Bar & Books - books + beer, cozy
+**Evening:** Relaxed night at house
+- Open some wine, cook a nice meal together
+- **Optional outing:** Brunette Wine Bar in Kingston *(12 min)* for 1-2 glasses if you want to explore
+- Save energy for Day 2 & 3
 
 ---
 
 ## Day 2 (Fri, Jan 23) - Breweries & Cooking
 
-### Late Morning: Keegan Ales Brewery
-- **Location:** Kingston *(6 mi / 12 min)*
-- **Hours:** Tue-Sun, free tours Fri-Sun 1-6pm
-- **Details:** Award-winning local brewery since 2003
-- **Note:** Friday = free tour day!
+### Breakfast: At house (leisurely)
 
-### Afternoon: Hutton Brickyards Cooking Class
+### Early Afternoon: Keegan Ales Brewery
+- **Location:** Kingston *(6 mi / 12 min)*
+- **Hours:** Free tours Fri-Sun 1-6pm
+- **Cost:** Free tour, buy a few beers if you want
+- **Note:** Friday = free tour day! Don't overdo it - you have drinks at home
+
+### Late Afternoon: Hutton Brickyards Cooking Class
 - **Location:** Kingston *(6 mi / 12 min)*
 - **Cost:** $75-150/person
-- **Details:** Pasta, pizza, or charcuterie classes. Cocktail bar, fireside lounging.
+- **Details:** Pasta, pizza, or charcuterie classes. Worth the splurge for the experience!
 - **Phone:** (845) 514-4853
 - **Website:** [huttonbrickyards.com](https://www.huttonbrickyards.com/)
 
-### Evening: Casual Kingston Night
-- **Dinner:** Boitson's Restaurant (steak frites, old-school bistro)
-- **Drinks:** Stockade Tavern
+### Evening: Back at house
+- You just learned to cook - make dinner with your new skills!
+- Drinks by the fire
 
 ---
 
 ## Day 3 (Sat, Jan 24) - Spa Day
 
-### Option A: Urban Cowboy Lodge (Full Day)
-- **Location:** Big Indian, NY *(39 mi / 52 min)*
-- **Cost:** $150+/person
-- **Details:** Authentic Estonian sauna, incredible restaurant, cozy bar with fireplace, 68 acres of forest
-- **Plan:** Arrive late morning, sauna session, lunch at restaurant, relaxed afternoon, dinner before heading back
+### Breakfast: At house
 
-### Option B: Arrowood Farms + Spa Combo
+### Option A: Urban Cowboy Lodge (Half Day)
+- **Location:** Big Indian, NY *(39 mi / 52 min)*
+- **Cost:** $150+/person (spa access + maybe lunch there)
+- **Details:** Authentic Estonian sauna, cozy bar with fireplace, 68 acres of forest
+- **Plan:** Go for sauna experience, have lunch there if hungry, but dinner back at house
+
+### Option B: Arrowood Farms + Chill
 - **Late Morning:** Arrowood Farms Brewery *(13 mi / 20 min)*
   - **Hours:** Saturdays 12-9pm (winter hours)
-  - **Details:** Working farm brewery, all ingredients grown on-site
-- **Afternoon:** Piaule Catskill *(34 mi / 45 min)* - $200+/person
-  - Architecturally stunning, hot pool, mineral plunge, sauna, steam room
+  - **Details:** Working farm brewery - worth going for the unique experience
+  - **Note:** Have lunch there (good food), skip excessive drinks (you're stocked at home)
+- **Afternoon:** Back at house, relax
 
-### Evening: Final Dinner (if not eating at spa)
-- **Dinner:** Shadows on the Hudson (river views, elegant)
+### Evening: Final night at house
+- Cook a nice farewell dinner together
+- You've got drinks - no need to go out
 
 ---
 
@@ -207,11 +234,12 @@ Choose a plan based on your group's vibe. All plans account for January weather 
 
 | Activity | Cost |
 |----------|------|
-| Brewery visits | $40-80 |
+| Keegan Ales (few beers) | $15-30 |
 | Cooking class | $75-150 |
-| Spa day | $150-200 |
-| Food/drinks (3 days) | ~$250-350 |
-| **Total** | **~$550-800** |
+| Spa OR Arrowood lunch | $50-150 |
+| **Total** | **~$150-330** |
+
+*All other meals/drinks at house*
 
 ---
 
@@ -221,20 +249,21 @@ Choose a plan based on your group's vibe. All plans account for January weather 
 
 ## Day 1 (Thu, Jan 22) - Arrival & Free Stuff
 
-**Afternoon:** Settle into accommodation
+**Afternoon:** Settle in, stock up
 
 **Late Afternoon:** Walkway Over the Hudson *(18 mi / 25 min)*
 - **Cost:** FREE
 - **Details:** World's longest elevated pedestrian bridge (1.28 miles), stunning Hudson River views
 - **Note:** Elevator closed Jan-Apr, stairs accessible
 
-**Evening:** Kingston *(6 mi / 12 min)*
-- **Dinner:** Top Taste (affordable, James Beard-nominated Jamaican)
-- **Drinks:** Tubby's - free open mic comedy night if interested
+**Evening:** Eat & drink at house
+- You're on a budget - that's what the house is for!
 
 ---
 
 ## Day 2 (Fri, Jan 23) - Quirky & Active
+
+### Breakfast: At house
 
 ### Morning: World's Largest Kaleidoscope
 - **Location:** Mt. Tremper *(15 mi / 20 min)*
@@ -247,31 +276,39 @@ Choose a plan based on your group's vibe. All plans account for January weather 
 - **Details:** Historic limestone cave, Brooklyn Bridge stone source
 - **Note:** Check if open in January (may have ice inside)
 
+### Lunch: Back at house (quick stop)
+
 ### Afternoon: Paintball Sports NY
 - **Location:** Clintondale *(15 mi / 20 min)*
 - **Cost:** $40/person (all-inclusive - great value!)
 - **Details:** 16 themed fields, 150 acres
 
-### Evening: Free Brewery Tour
-- **Keegan Ales:** Free tours Fri-Sun 1-6pm, pay for drinks only
+### Evening: Free Brewery Tour + Dinner at house
+- **Keegan Ales:** Free tours Fri-Sun 1-6pm - totally free, maybe buy 1 beer
+- Dinner at house after
 
 ---
 
 ## Day 3 (Sat, Jan 24) - Local & Chill
 
-### Morning/Afternoon: Wood'n Wheel Fun Center
+### Breakfast: At house
+
+### Morning: Wood'n Wheel Fun Center
 - **Location:** Ulster Park *(2 min)*
 - **Cost:** $15-30/person
 - **Hours:** Sat 10am-10pm
-- **Details:** Skating, laser tag, bumper cars, arcade
+- **Details:** Skating, laser tag, bumper cars, arcade - literally next door!
+
+### Lunch: At house
 
 ### Afternoon: Tuthilltown Distillery (just tasting)
 - **Location:** *(18 mi / 25 min)*
 - **Cost:** $30/person for tasting only (skip workshop)
+- **Note:** Worth it for the experience - buy a bottle to bring home
 
-### Evening: Casual Final Night
-- **Dinner:** Tortilla Taco Bar (affordable tacos + drinks)
-- **Drinks:** Snapper Magee's or Lone Wolf (local dive bars)
+### Evening: Final night at house
+- Cook dinner, finish the drinks you brought
+- No need to spend money going out
 
 ---
 
@@ -285,8 +322,9 @@ Choose a plan based on your group's vibe. All plans account for January weather 
 | Paintball | $40 |
 | Wood'n Wheel | $15-30 |
 | Distillery tasting | $30 |
-| Food/drinks (3 days) | ~$150-200 |
-| **Total** | **~$250-320** |
+| **Total** | **~$100-115** |
+
+*Zero eating/drinking out - all at house!*
 
 ---
 
@@ -294,47 +332,52 @@ Choose a plan based on your group's vibe. All plans account for January weather 
 
 *Best of everything - variety each day.*
 
-## Day 1 (Thu, Jan 22) - Arrival & Speakeasy
+## Day 1 (Thu, Jan 22) - Arrival & Settle
 
-**Afternoon:** Settle into accommodation
+**Afternoon:** Settle in, stock the fridge
 
-**Evening:** Kingston *(6 mi / 12 min)*
-- **Dinner:** Restaurant Kinsley (upscale start to trip)
-- **Cocktails:** Stockade Tavern
-- **Late Night:** Salt Box - explore unique rooms
+**Evening:** Chill at house
+- Make dinner, open some drinks
+- **Optional:** Quick trip to Stockade Tavern *(12 min)* for 1-2 cocktails to check out Kingston
 
 ---
 
-## Day 2 (Fri, Jan 23) - Adventure + Drinks
+## Day 2 (Fri, Jan 23) - Adventure Day
 
-### Morning: Tuthilltown Spirits Distillery
+### Breakfast: At house
+
+### Late Morning: Tuthilltown Spirits Distillery
 - **Cost:** $50/person for cocktail workshop (make 3 drinks)
-- **Details:** Hands-on experience, great for group bonding
+- **Details:** Hands-on experience, great for group bonding - worth the splurge!
+
+### Lunch: At house (between activities)
 
 ### Afternoon: Mid-Hudson Sporting Clays
 - **Cost:** $50-80/person
 - **Details:** Outdoor shooting, unique experience
 
-### Evening: Comedy + Dinner
-- **Check:** Assembly Kingston for shows (Squalid Gold Comedy Showcase on Fri Jan 23!)
-- **Dinner:** Top Taste or Tortilla Taco Bar
+### Evening: At house + Optional comedy
+- Dinner at house
+- **Check:** Assembly Kingston for Squalid Gold Comedy Showcase (Fri Jan 23!) - $15-25 if interested
 
 ---
 
 ## Day 3 (Sat, Jan 24) - Chill + Celebrate
 
-### Morning: Sleep in, late brunch
+### Morning: Sleep in, brunch at house
 
-### Afternoon: Keegan Ales Brewery
-- Free tour, good beers, relaxed vibe
+### Early Afternoon: Keegan Ales Brewery
+- Free tour Sat 1-6pm, maybe buy a round
+- Quick fun stop, don't need to spend much
 
-### Late Afternoon: Quick stops
+### Late Afternoon: Quick quirky stops
 - **Option:** World's Largest Kaleidoscope ($5, 20 min experience)
 - **Option:** Widow Jane Mine ($5, unique history)
 
-### Evening: Final Celebration
-- **Dinner:** Shadows on the Hudson (elegant send-off)
-- **Cigars:** Havana on Hudson if group is interested
+### Evening: Final Celebration at house
+- Grill steaks, make it special
+- You've got drinks - toast to the groom!
+- **Optional splurge:** Shadows on the Hudson for one fancy dinner out
 
 ---
 
@@ -344,22 +387,26 @@ Choose a plan based on your group's vibe. All plans account for January weather 
 |----------|------|
 | Distillery workshop | $50 |
 | Sporting clays | $50-80 |
-| Comedy show | $15-25 |
+| Comedy show (optional) | $15-25 |
 | Kaleidoscope + Mine | $10 |
-| Food/drinks (3 days) | ~$250-350 |
-| **Total** | **~$400-550** |
+| Optional dinner out | $0-75 |
+| **Total** | **~$130-250** |
+
+*Most meals/drinks at house*
 
 ---
 
 # Quick Comparison
 
-| Plan | Vibe | Total Cost | Best For |
-|------|------|------------|----------|
-| **A: Classic** | Drinking, gambling, nightlife | $450-750 | Traditional bachelor party |
-| **B: Adventure** | High energy, competitive | $350-500 | Active groups |
-| **C: Relaxed** | Chill, food, spa | $550-800 | Unwinding |
-| **D: Budget** | Maximum value | $250-320 | Cost-conscious |
-| **E: Mixed** | Variety each day | $400-550 | Can't decide |
+| Plan | Vibe | Cost (per person) | Best For |
+|------|------|-------------------|----------|
+| **A: Classic** | Gambling, cigars, distillery | $250-500 | Traditional bachelor party |
+| **B: Adventure** | Shooting, paintball, competition | $160-250 | Active groups |
+| **C: Relaxed** | Cooking class, brewery, spa | $150-330 | Unwinding |
+| **D: Budget** | Quirky attractions, paintball | $100-115 | Cost-conscious |
+| **E: Mixed** | Bit of everything | $130-250 | Can't decide |
+
+*All estimates assume eating/drinking at house. Add $150-300 if eating out for most meals.*
 
 ---
 
