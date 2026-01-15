@@ -1,5 +1,3 @@
-<DONE-11/>
-
 # Bachelor Party Trip - Ulster Park, NY
 **Dates:** January 22-24, 2026
 **Location:** 213 New York, Ulster Park, NY 12487
@@ -245,3 +243,184 @@
 **Restaurant Kinsley** - Upscale New American
 **Le Canard Enchaine** - French bistro
 **Shadows on the Hudson** - River views, elegant
+
+---
+
+# Trip Type Recommendations
+
+*Curated itineraries based on activity rankings and distances from accommodation.*
+
+---
+
+## The Relaxed Trip (Chill Vibes, Low Energy)
+
+Perfect for unwinding without the chaos. Focus on good food, drinks, and scenic experiences.
+
+| Activity | Distance | Est. Cost | Why It Fits |
+|----------|----------|-----------|-------------|
+| **Urban Cowboy Lodge** | 39 mi (52 min) | $150+ | Estonian sauna, incredible restaurant, fireplace bar, forest setting |
+| **Keegan Ales Brewery** | 6 mi (12 min) | $20-40 | Award-winning local brewery, free tours Fri-Sun, very close |
+| **Stockade Tavern** | 6 mi (12 min) | $15-30 | Best cocktails in Kingston, craft-focused |
+| **Hutton Brickyards** | 6 mi (12 min) | $75-150 | Cooking classes, cocktail bar, fireside lounging |
+| **Brunette Wine Bar** | 6 mi (12 min) | $30-60 | Natural wines, expertly crafted food plates |
+
+**Suggested Flow:** Morning at Keegan Ales → Afternoon cooking class at Hutton Brickyards → Evening sauna & dinner at Urban Cowboy Lodge
+
+---
+
+## The Adventure Trip (High Energy, Competitive)
+
+For groups that want action, competition, and memorable physical activities.
+
+| Activity | Distance | Est. Cost | Why It Fits |
+|----------|----------|-----------|-------------|
+| **Mid-Hudson Sporting Clays** | 15 mi (22 min) | $50-80 | 32 stations, world-class outdoor course, nothing like this in NYC |
+| **Paintball Sports NY** | 15 mi (20 min) | $40 | 16 themed fields on 150 acres, all-inclusive packages |
+| **RPM Raceway (Go-Karts)** | 18 mi (25 min) | $25-50 | Indoor electric go-karts up to 45mph, competitive racing |
+| **Wreck Room HV (Rage Room)** | 18 mi (25 min) | $30-60 | Smash stuff for stress relief, perfect bachelor party activity |
+
+**Suggested Flow:** Morning sporting clays → Afternoon paintball → Evening go-karts & rage room (both at Poughkeepsie Galleria area)
+
+---
+
+## The Classic Bachelor Party Trip (Drinking, Gambling, Good Times)
+
+Traditional bachelor party vibes with distillery tours, casinos, and nightlife.
+
+| Activity | Distance | Est. Cost | Why It Fits |
+|----------|----------|-----------|-------------|
+| **Tuthilltown Spirits Distillery** | 18 mi (25 min) | $30-50 | First NY whiskey distillery since Prohibition, cocktail workshop |
+| **Resorts World Casino** | 48 mi (55 min) | $50-200+ | 18-table poker room, sportsbook, 2500 slots, classic bachelor activity |
+| **BackBar (Hidden Speakeasy)** | 35 mi (40 min) | $40-70 | Hidden behind antique shop, bohemian speakeasy vibe |
+| **Havana on Hudson Cigar** | 20 mi (25 min) | $50+ | Premier cigar lounge, craft cocktails, speakeasy atmosphere |
+| **Salt Box (Late Night Bar)** | 6 mi (12 min) | $20-40 | Best late-night spot in Kingston, unique interior rooms |
+
+**Suggested Flow:** Morning distillery tour & cocktail workshop → Afternoon/evening at casino → Late night speakeasy hopping
+
+---
+
+## The Local Explorer Trip (Unique Experiences, Close By)
+
+Maximize uniqueness while minimizing drive time. Stay within 20 minutes.
+
+| Activity | Distance | Est. Cost | Why It Fits |
+|----------|----------|-----------|-------------|
+| **Tuthilltown Spirits Distillery** | 18 mi (25 min) | $30-50 | Top-rated, highly unique, hands-on experience |
+| **Widow Jane Mine** | 10 mi (15 min) | $5-10 | Historic limestone cave, Brooklyn Bridge stone source |
+| **World's Largest Kaleidoscope** | 15 mi (20 min) | $5 | Guinness World Record, 60-foot trippy visual show |
+| **Wood'n Wheel Fun Center** | 0 mi (2 min) | $15-30 | RIGHT IN ULSTER PARK - skating, laser tag, bumper cars |
+| **Keegan Ales Brewery** | 6 mi (12 min) | $20-40 | Mother's Milk stout in NYT top 10, very close |
+| **Arrowood Farms Brewery** | 13 mi (20 min) | $30-50 | Working farm brewery, all ingredients grown on-site (Saturdays only) |
+
+**Suggested Flow:** Kaleidoscope stop → Widow Jane Mine → Arrowood Farms lunch → Tuthilltown distillery → Keegan Ales evening
+
+---
+
+## The Spa & Wellness Trip (Recharge Mode)
+
+For groups that want to decompress and treat themselves.
+
+| Activity | Distance | Est. Cost | Why It Fits |
+|----------|----------|-----------|-------------|
+| **Urban Cowboy Lodge** | 39 mi (52 min) | $150+ | Estonian sauna, forest setting, masculine aesthetic |
+| **Piaule Catskill** | 34 mi (45 min) | $200+ | Architecturally stunning, full spa circuit, Instagram-worthy |
+| **Hemlock Neversink Spa** | 38 mi (50 min) | $300 | Multiple saunas, steam room, hot tub, dedicated men's locker |
+
+**Note:** All spa options require 35-50 min drives. Pick one for a half-day commitment.
+
+---
+
+## The Budget-Friendly Trip (Maximum Fun, Minimum Spend)
+
+Great experiences without breaking the bank.
+
+| Activity | Distance | Est. Cost | Why It Fits |
+|----------|----------|-----------|-------------|
+| **Widow Jane Mine** | 10 mi (15 min) | $5-10 | Only $5 donation, truly unique historic site |
+| **World's Largest Kaleidoscope** | 15 mi (20 min) | $5 | Quick, cheap, completely unique |
+| **Walkway Over the Hudson** | 18 mi (25 min) | Free | World's longest elevated pedestrian bridge, stunning views |
+| **Wood'n Wheel Fun Center** | 0 mi (2 min) | $15-30 | Super close, multiple activities |
+| **Paintball Sports NY** | 15 mi (20 min) | $40 | All-inclusive at $40/person is great value |
+| **Keegan Ales Brewery** | 6 mi (12 min) | $20-40 | Free tours Fri-Sun |
+
+**Suggested Flow:** Free Walkway morning walk → $5 Kaleidoscope → $5 Widow Jane → $40 Paintball → Free brewery tour
+
+---
+
+## The Full-Day Commitment Trip (Go All-In)
+
+When you want to dedicate a full day to one memorable experience.
+
+| Activity | Duration | Est. Cost | Why It Fits |
+|----------|----------|-----------|-------------|
+| **Little Beer Bus Tours** | Full day | $155-160 | Someone else drives, hits 2-3 breweries/distilleries, all-inclusive |
+| **Resorts World Casino** | Full day | $50-200+ | Poker, sportsbook, entertainment, bars, restaurants all on-site |
+| **Kartrite Indoor Waterpark** | Full day | $75 | NY's biggest indoor waterpark, 80,000 sq ft (55 min drive) |
+
+---
+
+## Quick Reference: Top Picks by Category
+
+### Best Overall (Score 8.5+)
+1. **Tuthilltown Spirits Distillery** - 9.1
+2. **Mid-Hudson Sporting Clays** - 8.8
+3. **Paintball Sports NY** - 8.5
+4. **SafeShoot Indoor Range** - 8.5
+
+### Most Unique to NYC Visitors (Uniqueness 9-10/10)
+- Tuthilltown Spirits Distillery
+- Mid-Hudson Sporting Clays
+- Widow Jane Mine (10/10)
+- Urban Cowboy Lodge
+- World's Largest Kaleidoscope (10/10)
+
+### Best for Groups of 6+
+- Paintball Sports NY (16 themed fields)
+- Mid-Hudson Sporting Clays (32 stations)
+- RPM Raceway (group racing)
+- Spins Bowl (multiple activities)
+
+### Best When Weather is Bad
+- SafeShoot Indoor Range (climate controlled)
+- RPM Raceway (indoor go-karts)
+- All In Adventures (escape rooms + axe throwing)
+- Wood'n Wheel Fun Center (skating, laser tag)
+
+### Closest Options (Under 15 min drive)
+| Activity | Distance |
+|----------|----------|
+| Wood'n Wheel Fun Center | 2 min |
+| Keegan Ales Brewery | 12 min |
+| Salt Box | 12 min |
+| Stockade Tavern | 12 min |
+| Tubby's | 12 min |
+| Widow Jane Mine | 15 min |
+
+---
+
+## Distance Summary
+
+| Range | Activities |
+|-------|------------|
+| 0-15 min | 14 options |
+| 15-30 min | 12 options |
+| 30-45 min | 8 options |
+| 45+ min | 6 options |
+
+---
+
+## January Winter Notes
+
+**Open Year-Round:**
+- All indoor activities (ranges, bowling, escape rooms, bars)
+- Distilleries and breweries
+- Casino
+- Spas
+
+**Check Before Going:**
+- Widow Jane Mine (may have ice inside)
+- Arrowood Farms (Saturdays only in winter)
+- Walkway Over the Hudson elevator (closed Jan-Apr, stairs accessible)
+
+**Closed Until Spring:**
+- Rail Explorers (reopens Spring 2026)
