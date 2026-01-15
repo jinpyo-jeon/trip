@@ -12,7 +12,7 @@ Choose a plan based on your group's vibe. All plans account for January weather 
 
 *Distillery, casino vibes, speakeasies, and good food.*
 
-## Day 1 (Wed, Jan 22) - Arrival & Kingston Night Out
+## Day 1 (Thu, Jan 22) - Arrival & Kingston Night Out
 
 **Afternoon:** Settle into accommodation
 
@@ -25,7 +25,7 @@ Choose a plan based on your group's vibe. All plans account for January weather 
 
 ---
 
-## Day 2 (Thu, Jan 23) - Whiskey & Games
+## Day 2 (Fri, Jan 23) - Whiskey & Games
 
 ### Morning: Tuthilltown Spirits Distillery
 - **Location:** Gardiner, NY *(18 mi / 25 min)*
@@ -47,7 +47,7 @@ Choose a plan based on your group's vibe. All plans account for January weather 
 
 ---
 
-## Day 3 (Fri, Jan 24) - Cigars & Celebration
+## Day 3 (Sat, Jan 24) - Cigars & Celebration
 
 ### Late Morning: Havana on Hudson Cigar Lounge
 - **Location:** *(20 mi / 25 min)*
@@ -83,22 +83,18 @@ Choose a plan based on your group's vibe. All plans account for January weather 
 
 *High energy, competitive, outdoor activities.*
 
-## Day 1 (Wed, Jan 22) - Arrival & Local Fun
+## Day 1 (Thu, Jan 22) - Arrival & Local Fun
 
 **Afternoon:** Settle into accommodation
-
-**Late Afternoon:** Wood'n Wheel Fun Center *(2 min drive)*
-- Roller skating, laser tag, bumper cars, arcade
-- Open Fri 7-10pm, Sat 10am-10pm, Sun 12:30-4pm
-- Cost: $15-30/person
 
 **Evening:** Kingston for dinner & drinks *(6 mi / 12 min)*
 - **Dinner:** Top Taste (James Beard-nominated Jamaican)
 - **Drinks:** Tubby's for live music
+- **Note:** Wood'n Wheel closed on Thursday - save for Day 2 or 3
 
 ---
 
-## Day 2 (Thu, Jan 23) - Full Adventure Day
+## Day 2 (Fri, Jan 23) - Full Adventure Day
 
 ### Morning: Mid-Hudson Sporting Clays
 - **Location:** *(15 mi / 22 min)*
@@ -120,7 +116,7 @@ Choose a plan based on your group's vibe. All plans account for January weather 
 
 ---
 
-## Day 3 (Fri, Jan 24) - Indoor Competition
+## Day 3 (Sat, Jan 24) - Indoor Competition
 
 ### Morning/Afternoon: Spins Bowl
 - **Location:** Poughkeepsie *(25 mi / 35 min)*
@@ -155,7 +151,7 @@ Choose a plan based on your group's vibe. All plans account for January weather 
 
 *Chill vibes, good food, breweries, spa.*
 
-## Day 1 (Wed, Jan 22) - Arrival & Wine
+## Day 1 (Thu, Jan 22) - Arrival & Wine
 
 **Afternoon:** Settle into accommodation
 
@@ -166,17 +162,13 @@ Choose a plan based on your group's vibe. All plans account for January weather 
 
 ---
 
-## Day 2 (Thu, Jan 23) - Breweries & Cooking
+## Day 2 (Fri, Jan 23) - Breweries & Cooking
 
-### Late Morning: Arrowood Farms Brewery (if Saturday)
-- **Location:** Accord, NY *(13 mi / 20 min)*
-- **Hours:** Saturdays only 12-9pm in winter
-- **Details:** Working farm brewery, all ingredients grown on-site
-
-### OR: Keegan Ales Brewery (any day)
+### Late Morning: Keegan Ales Brewery
 - **Location:** Kingston *(6 mi / 12 min)*
 - **Hours:** Tue-Sun, free tours Fri-Sun 1-6pm
 - **Details:** Award-winning local brewery since 2003
+- **Note:** Friday = free tour day!
 
 ### Afternoon: Hutton Brickyards Cooking Class
 - **Location:** Kingston *(6 mi / 12 min)*
@@ -191,18 +183,20 @@ Choose a plan based on your group's vibe. All plans account for January weather 
 
 ---
 
-## Day 3 (Fri, Jan 24) - Spa Day
+## Day 3 (Sat, Jan 24) - Spa Day
 
-### Full Day: Urban Cowboy Lodge
+### Option A: Urban Cowboy Lodge (Full Day)
 - **Location:** Big Indian, NY *(39 mi / 52 min)*
 - **Cost:** $150+/person
 - **Details:** Authentic Estonian sauna, incredible restaurant, cozy bar with fireplace, 68 acres of forest
 - **Plan:** Arrive late morning, sauna session, lunch at restaurant, relaxed afternoon, dinner before heading back
 
-### Alternative: Piaule Catskill
-- **Location:** Catskill, NY *(34 mi / 45 min)*
-- **Cost:** $200+/person
-- **Details:** Architecturally stunning, hot pool, mineral plunge, sauna, steam room
+### Option B: Arrowood Farms + Spa Combo
+- **Late Morning:** Arrowood Farms Brewery *(13 mi / 20 min)*
+  - **Hours:** Saturdays 12-9pm (winter hours)
+  - **Details:** Working farm brewery, all ingredients grown on-site
+- **Afternoon:** Piaule Catskill *(34 mi / 45 min)* - $200+/person
+  - Architecturally stunning, hot pool, mineral plunge, sauna, steam room
 
 ### Evening: Final Dinner (if not eating at spa)
 - **Dinner:** Shadows on the Hudson (river views, elegant)
@@ -225,7 +219,7 @@ Choose a plan based on your group's vibe. All plans account for January weather 
 
 *Maximum fun, minimum spend.*
 
-## Day 1 (Wed, Jan 22) - Arrival & Free Stuff
+## Day 1 (Thu, Jan 22) - Arrival & Free Stuff
 
 **Afternoon:** Settle into accommodation
 
@@ -240,7 +234,7 @@ Choose a plan based on your group's vibe. All plans account for January weather 
 
 ---
 
-## Day 2 (Thu, Jan 23) - Quirky & Active
+## Day 2 (Fri, Jan 23) - Quirky & Active
 
 ### Morning: World's Largest Kaleidoscope
 - **Location:** Mt. Tremper *(15 mi / 20 min)*
@@ -263,11 +257,12 @@ Choose a plan based on your group's vibe. All plans account for January weather 
 
 ---
 
-## Day 3 (Fri, Jan 24) - Local & Chill
+## Day 3 (Sat, Jan 24) - Local & Chill
 
 ### Morning/Afternoon: Wood'n Wheel Fun Center
 - **Location:** Ulster Park *(2 min)*
 - **Cost:** $15-30/person
+- **Hours:** Sat 10am-10pm
 - **Details:** Skating, laser tag, bumper cars, arcade
 
 ### Afternoon: Tuthilltown Distillery (just tasting)
@@ -299,7 +294,7 @@ Choose a plan based on your group's vibe. All plans account for January weather 
 
 *Best of everything - variety each day.*
 
-## Day 1 (Wed, Jan 22) - Arrival & Speakeasy
+## Day 1 (Thu, Jan 22) - Arrival & Speakeasy
 
 **Afternoon:** Settle into accommodation
 
@@ -310,7 +305,7 @@ Choose a plan based on your group's vibe. All plans account for January weather 
 
 ---
 
-## Day 2 (Thu, Jan 23) - Adventure + Drinks
+## Day 2 (Fri, Jan 23) - Adventure + Drinks
 
 ### Morning: Tuthilltown Spirits Distillery
 - **Cost:** $50/person for cocktail workshop (make 3 drinks)
@@ -321,12 +316,12 @@ Choose a plan based on your group's vibe. All plans account for January weather 
 - **Details:** Outdoor shooting, unique experience
 
 ### Evening: Comedy + Dinner
-- **Check:** Assembly Kingston for shows (Squalid Gold Comedy Showcase on Jan 23!)
+- **Check:** Assembly Kingston for shows (Squalid Gold Comedy Showcase on Fri Jan 23!)
 - **Dinner:** Top Taste or Tortilla Taco Bar
 
 ---
 
-## Day 3 (Fri, Jan 24) - Chill + Celebrate
+## Day 3 (Sat, Jan 24) - Chill + Celebrate
 
 ### Morning: Sleep in, late brunch
 

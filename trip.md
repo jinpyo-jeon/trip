@@ -5,7 +5,7 @@
 
 ---
 
-## Day 1 (Wed, Jan 22) - Arrival & Chill Night
+## Day 1 (Thu, Jan 22) - Arrival & Chill Night
 
 **Afternoon:** Settle into accommodation
 
@@ -20,7 +20,7 @@
 
 ---
 
-## Day 2 (Thu, Jan 23) - Adventure Day
+## Day 2 (Fri, Jan 23) - Adventure Day
 
 ### Morning/Afternoon: Paintball Sports NY
 - **Location:** Clintondale, NY *(15 miles / 20 min)*
@@ -41,7 +41,7 @@
 
 ---
 
-## Day 3 (Fri, Jan 24) - Scenic & Spa Day
+## Day 3 (Sat, Jan 24) - Scenic & Spa Day
 
 ### Full Day: Mohonk Mountain House *(12 miles / 20 min)*
 - **Cost:** $125/person (Winter Sports Pass, Jan 1 - Mar 1)
