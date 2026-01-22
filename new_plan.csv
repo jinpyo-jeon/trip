@@ -1,0 +1,34 @@
+Tier,Activity,Category,Distance,Drive Time,Est Cost,Hours,Confidence,Notes
+1,Denning's Point Distillery,Distillery,~15 mi,25 min,$15-25,Fri-Sat 2pm-8pm; Sun 2pm-6pm,High,Urban distillery in 19th-century building; Beacon Bourbon (100 proof 4-year aged); live entertainment Saturdays
+1,Spirits Lab Distillery,Distillery,~12 mi,20 min,$20-30,Tue-Thu 10am-5pm; Fri 10am-6pm; Sat-Sun 12pm-7pm,High,Craft cocktails and small-batch spirits; signature cocktail flights; historic Newburgh location
+1,Union Street Brewing,Brewery,~6 mi,10 min,$6-8/beer,Thu-Sun (varies),High,NEW Nov 2025 location; dozen house-brewed beers; Rondout waterfront; flatbreads and pretzels
+1,Kingston Standard Brewing,Brewery,~6 mi,10 min,$6-8/beer,Thu 12-8pm; Fri-Sat 12-9pm; Sun 12-8pm,High,Pizza cocktails oysters; great atmosphere for guys
+1,The Gravity Vault,Adventure,~15 mi,25 min,$20-35/person,Mon-Fri 9am-10pm; Sat-Sun 9am-8pm,High,13000+ sq ft rock climbing; 40ft walls; 65 top rope stations; Staff Belay for beginners
+1,Bounce Sports & Entertainment,Adventure,~15 mi,25 min,$25/2hrs Fri-Sat,Mon-Thu 10am-8pm; Fri 10am-9pm; Sat 10am-10pm; Sun 10am-7pm,High,Trampolines laser tag roller skating mini-golf ninja course; Jump Skate & Glow Fri-Sat 7-10pm
+1,Round1 Bowling & Arcade,Entertainment,~22 mi,35 min,~$75 group bowling,Daily 10am-2am (bowling closes 10pm),High,Japanese-style arcade bowling billiards darts karaoke; open until 2AM; Vegas-like entertainment
+1,Alapaha Golf Center,Indoor Golf,~6 mi,10 min,$30-40/hr,Call for hours,High,4 golf simulators with 31 courses each; perfect winter golf option
+1,Iron Horse Cigar Depot,Cigar Lounge,~25 mi,35 min,$8-30+ cigars,Sun 12-6pm; Mon-Thu 12-8pm; Fri-Sat 11am-8pm,High,Walk-in humidor; leather seating; 2 TVs; outdoor patio; no membership required
+1,Chic's Sports Bar,Sports Bar,~6 mi,10 min,$15-25,Standard hours,High,Best sports bar in area; 40+ years; NFL playoff games
+2,Levon Helm Studios,Live Music,~18 mi,25 min,$40-75+,Show dependent,High (if show),Legendary 250-capacity barn venue; CHECK FOR JAN 23 SHOW; bucket-list music venue
+2,Golden Rail Ale House,Dive Bar/Craft Beer,~12 mi,20 min,$6-10,Standard bar hours,High,First craft beer bar in Hudson Valley; Super Troopers filming location; tons of beers on tap
+2,Snug Harbor,Dive Bar,~10 mi,15 min,$5-10,Late night,High,Best dive bar in New Paltz; great music and people; unpretentious
+2,Taconic Distillery,Distillery,~25 mi,35 min,$25-35,SATURDAY ONLY 12pm-6pm,Medium,Fire pit lawn games scenic farmland; award-winning bourbons; ONLY ONE DAY WINDOW
+2,Rosita's Karaoke,Karaoke/Mexican,~6 mi,10 min,$15-25,Karaoke THURSDAYS; DJ Fri-Sat,Medium,Perfect Thursday arrival activity; Mexican food; DJ dance parties weekends
+2,Half Moon,Dive Bar,~25 mi,35 min,$5-10,Late night,High,Last true dive bar in Hudson; pool table; DJ nights live bands karaoke; large patio
+2,Arlington Grill,Dive Bar,~15 mi,25 min,$5-10,Standard bar hours,High,Classic Poughkeepsie dive; great Bloody Marys; amazing breakfast sandwiches
+2,Colony Woodstock,Live Music,~18 mi,25 min,$20-50,Show dependent,Medium,380-capacity venue; check January schedule; bar atmosphere with live music
+2,Tempo Performing Arts Center,Live Music,~6 mi,10 min,$20-40,Show dependent,Medium,Kingston's newest venue in converted church; check January schedule
+2,Mahoney's Irish Pub,Sports Bar,~15 mi,25 min,$15-25,Standard pub hours,High,Irish pub; great game-watching; football-friendly menu; karaoke nights
+2,Sonder Wine Bar,Wine Bar,~6 mi,10 min,$12-18 glass,Standard hours,Medium,Natural wine; Parisian bistro vibe; may not fit bachelor party vibe
+2,Well Nice Wine Bar,Wine Bar,~8 mi,12 min,$12-18 glass,Standard hours,Medium,Cozy old-world dining feel; different from beer/whiskey
+3,Hillrock Estate Distillery,Distillery,~40 mi,55-60 min,$30-50+,Daily 11am-5pm,High,Field-to-glass whiskey; world's first Solera Aged Bourbon; RESERVATION REQUIRED; premium experience
+3,Catskill Brewery,Brewery,~50 mi,60-65 min,$6-8/beer,Mon/Wed-Thu 3-7pm; Fri-Sat 12-8pm; Sun 12-7pm,Medium,Best Craft Brewery HV 2025; LEED Gold building; EXCEEDS 40 MIN LIMIT
+3,Windham Mountain,Ski/Snow,~45 mi,55-60 min,$100-120 lift; $55 tubing,Varies seasonally,High,Family-friendly ski; tubing park day/night; fire pits; WEATHER DEPENDENT
+3,Rip Van Winkle Ranch Snowmobile,Adventure,~35 mi,45-50 min,$100-200,By reservation,Low,Guided snowmobile tours; WEATHER/SNOW DEPENDENT; call ahead
+3,Hudson Valley Pickleball & Golf,Indoor Golf/Sports,~15 mi,25 min,$40-50/hr,Call for hours,Medium,Golf simulators and pickleball; walk-ins welcome
+3,Fun Max Adventure Park,Adventure,~20 mi,30 min,$20-35,CALL FOR HOURS,Medium,80000 sq ft trampolines rock climbing ninja courses; family-oriented but adult appeal
+SKIP,Coppersea Distilling,Distillery,~10 mi,15 min,$25,NOT OPERATIONAL,None,Under new ownership; paused operations; relocating; DO NOT PLAN FOR JAN 2026
+DUPLICATE,Hunter Mountain,Ski/Snow,~40 mi,50-55 min,$100-130 lift; $55 tubing,9am-4pm varies,High,Already in trip.csv - NY's largest tubing park
+DUPLICATE,Mohonk Winter Sports Pass,Wellness/Winter,~10 mi,15 min,$125,72hr advance booking,Medium,Already in trip.csv - ice skating skiing snowshoeing tubing
+DUPLICATE,Resorts World Catskills Poker,Casino,~35 mi,45 min,Varies by stakes,Daily,Medium,Already in trip.csv - 18-table poker room
+DUPLICATE,Castle Fun Center,Entertainment,~30 mi,40-45 min,$15-25/activity,Wed-Sun varies,High,Already in trip.csv - laser tag bowling axe throwing

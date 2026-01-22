@@ -6,11 +6,35 @@
 
 **Selected Activities:**
 - Tuthilltown Spirits Distillery
-- Mid-Hudson Sporting Clays (or SafeShoot as indoor backup)
-- RPM Raceway Go-Karts
+- SafeShoot Indoor Range (Mid-Hudson Sporting Clays not open Sat)
+- ~~RPM Raceway Go-Karts~~ **CLOSED** → All In Adventures (Escape Room + Axe Throwing)
 - Walkway Over the Hudson
 
 **Note:** All meals/drinks at house unless noted. Thursday is arrival/chill day.
+
+---
+
+## CRITICAL: RPM Raceway is Permanently Closed
+
+RPM Raceway at Poughkeepsie Galleria closed in March 2025. **Replacement options at same location:**
+
+| Replacement | Cost | Notes |
+|-------------|------|-------|
+| **All In Adventures** | $30-50/person | Escape room + axe throwing, great for groups |
+| **Wreck Room HV** | $30-60/person | Rage room - smash stuff, bachelor party vibes |
+
+Both are at Poughkeepsie Galleria, so routing stays the same.
+
+---
+
+## Required Bookings (Do These NOW)
+
+| Activity | Booking Required? | Contact | Action |
+|----------|-------------------|---------|--------|
+| Tuthilltown Distillery | **YES - Recommended** | [reservehudson.com](https://www.reservehudson.com) or Tock | Book Fri Jan 23, 5:30pm for 4 |
+| SafeShoot Indoor Range | **YES - Required** | (845) 443-7727 | Book Sat Jan 24, 10am for 4 |
+| All In Adventures | **YES - Strongly Recommended** | (845) 218-0002 | Book Sat Jan 24, escape room for 4 |
+| Walkway Over the Hudson | No | N/A | Walk-in, opens 7am |
 
 ---
 
@@ -20,203 +44,121 @@
 | Activity | Distance | Drive |
 |----------|----------|-------|
 | Tuthilltown Distillery | 18 mi | 25 min |
-| Mid-Hudson Sporting Clays | 15 mi | 22 min |
 | SafeShoot Indoor Range | 6 mi | 12 min |
-| RPM Raceway Go-Karts | 18 mi | 25 min |
+| All In Adventures (Galleria) | 18 mi | 25 min |
 | Walkway Over the Hudson | 18 mi | 25 min |
 
 ### Between Venues
 | From → To | Distance | Drive |
 |-----------|----------|-------|
-| Distillery → Go-Karts | ~15 mi | ~20 min |
+| Distillery → Galleria | ~15 mi | ~20 min |
 | Distillery → Walkway | ~12 mi | ~18 min |
-| Go-Karts → Walkway | ~3 mi | ~8 min |
-| Sporting Clays → Distillery | ~10 mi | ~15 min |
-| Sporting Clays → SafeShoot | ~12 mi | ~18 min |
+| Galleria → Walkway | ~3 mi | ~8 min |
+| SafeShoot → Galleria | ~15 mi | ~20 min |
 
 ---
 
-# Option 1: Poughkeepsie Day Friday
+# Recommended Plan: Good Weather
 
-*Efficient routing - Distillery and Go-Karts are in same direction*
+*Use if Saturday is clear and above 25F*
 
 ## Thursday (Jan 22) - Arrival
-- Arrive, settle in, stock up
+- Evening arrival (after 5pm), settle in, stock up
 - Hang at house, eat & drink
 
 ## Friday (Jan 23)
 | Time | Activity | Notes |
 |------|----------|-------|
-| Breakfast | At house | |
-| 11am-1pm | Tuthilltown Distillery | 25 min from house, $30-50/person |
-| | → 20 min drive → | |
-| 2pm-4pm | RPM Raceway Go-Karts | $25-50/person |
-| | → 25 min back to house → | |
+| Daytime | Work/busy | |
+| 5:15pm | Depart for Tuthilltown | 25 min drive |
+| 5:30pm-7:30pm | **Tuthilltown Distillery** | **PRE-BOOK** - $30-50/person |
+| 8:00pm | Return to house | Designate sober driver |
 | Evening | Dinner & drinks at house | |
 
 ## Saturday (Jan 24)
 | Time | Activity | Notes |
 |------|----------|-------|
-| Breakfast | At house | Sleep in if needed |
-| Late AM | Walkway Over the Hudson | FREE, 25 min drive, 1.28 mile walk |
-| | → 25 min back to house → | |
-| Afternoon | Chill at house | Or add SafeShoot (12 min) if you want more action |
+| 8:30am | Breakfast at house | |
+| 9:00am | Depart for Walkway | Check weather first! |
+| 9:30-10:30am | **Walkway Over the Hudson** | FREE - Park at **162 Washington St** (Pulaski Park) |
+| 10:45am | Arrive Poughkeepsie Galleria | 8 min drive |
+| 11:00am-12:30pm | **All In Adventures** | **PRE-BOOK** - Escape room + axe throwing |
+| 12:30-1:15pm | Lunch at Galleria food court | |
+| 1:30pm | Return toward house | |
+| 2:00-4:00pm | **SafeShoot Indoor Range** | **APPOINTMENT REQUIRED** - 12 min from house |
+| 4:15pm | Return to house | |
 | Evening | Final dinner at house | |
 
-**Budget:** ~$105-180/person (activities only)
+**Budget:** ~$100-170/person (activities only)
 
 ---
 
-# Option 2: Outdoor Shooting Friday
+# Bad Weather Backup: All Indoor
 
-*Sporting clays + distillery are near each other*
+*Use if Saturday has snow/ice/rain or temps below 20F, OR if Walkway is closed*
 
-## Thursday (Jan 22) - Arrival
-- Arrive, settle in, stock up
-- Hang at house, eat & drink
+## Thursday & Friday
+*Same as above*
 
-## Friday (Jan 23)
+## Saturday (Jan 24) - All Indoor
 | Time | Activity | Notes |
 |------|----------|-------|
-| Breakfast | At house | Big breakfast - you'll need energy |
-| 10am-12pm | Mid-Hudson Sporting Clays | 22 min from house, $50-80/person |
-| | → 15 min drive → | |
-| 1pm-4pm | Tuthilltown Distillery | $30-50/person, stay for tastings |
-| | → 25 min back to house → | |
-| Evening | Dinner & drinks at house | |
+| 9:30am | Breakfast at house | Sleep in a bit |
+| 10:00am | Depart for SafeShoot | |
+| 10:15am-12:15pm | **SafeShoot Indoor Range** | **APPOINTMENT REQUIRED** |
+| 12:30pm | Depart for Poughkeepsie | ~20 min |
+| 1:00-1:45pm | Lunch at Galleria | |
+| 2:00-3:30pm | **All In Adventures** | Escape room + axe throwing |
+| 3:45-4:45pm | **Wreck Room HV** (optional) | Rage room - $30-60/person |
+| 5:15pm | Return to house | |
+| Evening | Final dinner | |
 
-## Saturday (Jan 24)
-| Time | Activity | Notes |
-|------|----------|-------|
-| Breakfast | At house | |
-| Late AM | Walkway Over the Hudson | FREE, 25 min, scenic morning walk |
-| | → 25 min back to house → | |
-| Afternoon | Chill at house | |
-| Evening | Final dinner at house | |
-
-**Budget:** ~$80-130/person (activities only)
+**Budget:** ~$100-200/person (activities only)
 
 ---
 
-# Option 3: Split Activities Across Days
+# Risk Warnings
 
-*Most variety - 4 activities total*
+## Walkway Over the Hudson
+- **Parking:** Main lot at 61 Parker Ave is **CLOSED until March 2026** - use **Pulaski Park (162 Washington St)** instead
+- **Elevator:** Closed January-April. Must use Washington Street stairs (175+ steps)
+- **Weather closures:** Walkway closes during snow, ice, high winds, or lightning
+- **Wind chill:** Exposed bridge feels 10-20F colder than ground level
+- **Contingency:** If closed, go directly to All In Adventures (opens 11am)
 
-## Thursday (Jan 22) - Arrival
-- Arrive, settle in, stock up
-- Hang at house, eat & drink
+## January Weather
+- Average high: 31-34F, low: 16-19F
+- Snow possible - check forecast 48 hours before
+- All other activities are indoor (weather-proof)
 
-## Friday (Jan 23)
-| Time | Activity | Notes |
-|------|----------|-------|
-| Breakfast | At house | |
-| 11am-1pm | Tuthilltown Distillery | 25 min from house, $30-50/person |
-| | → 25 min back to house → | |
-| Lunch | At house | Quick refuel |
-| 2pm-4pm | Mid-Hudson Sporting Clays | 22 min, $50-80/person, outdoor |
-| | → 22 min back to house → | |
-| Evening | Dinner & drinks at house | |
-
-## Saturday (Jan 24)
-| Time | Activity | Notes |
-|------|----------|-------|
-| Breakfast | At house | |
-| 10am-11am | Walkway Over the Hudson | FREE, 25 min drive |
-| | → 8 min drive → | Same area! |
-| 12pm-2pm | RPM Raceway Go-Karts | $25-50/person |
-| | → 25 min back to house → | |
-| Afternoon | Chill at house | |
-| Evening | Final dinner at house | |
-
-**Budget:** ~$130-210/person (activities only)
+## Winter Driving
+- Allow extra time if roads are icy
+- Keep gas tank half full
+- Download offline maps (spotty cell coverage in rural areas)
 
 ---
 
-# Option 4: Indoor Backup Focus
+# Pre-Trip Checklist
 
-*Distillery + Go-Karts Friday, SafeShoot Saturday*
+### 2+ Weeks Before (NOW)
+- [ ] Book Tuthilltown Distillery - Fri Jan 23, 5:30pm, 4 people
+- [ ] Book SafeShoot Indoor Range - Sat Jan 24, 10am or 2pm, 4 people
+- [ ] Book All In Adventures - Sat Jan 24, 11am, escape room for 4
 
-## Thursday (Jan 22) - Arrival
-- Arrive, settle in, stock up
-- Hang at house, eat & drink
+### 1 Week Before
+- [ ] Confirm all reservations (get confirmation numbers)
+- [ ] Share itinerary with all 4 participants
+- [ ] Verify everyone has valid ID (needed for distillery and range)
 
-## Friday (Jan 23)
-| Time | Activity | Notes |
-|------|----------|-------|
-| Breakfast | At house | |
-| 11am-1pm | Tuthilltown Distillery | 25 min from house, $30-50/person |
-| | → 20 min drive → | |
-| 2pm-4pm | RPM Raceway Go-Karts | $25-50/person |
-| | → 25 min back to house → | |
-| Evening | Dinner & drinks at house | |
+### 48 Hours Before
+- [ ] Check weather forecast
+- [ ] Decide: Good Weather plan or Bad Weather Backup
+- [ ] If snow predicted, commit to All Indoor plan
 
-## Saturday (Jan 24)
-| Time | Activity | Notes |
-|------|----------|-------|
-| Brunch | At house | Sleep in, recover |
-| 1pm-3pm | SafeShoot Indoor Range | Only 12 min, $40-60/person |
-| | → 12 min back to house → | |
-| Afternoon | Chill at house | |
-| Evening | Final dinner at house | |
-
-**Budget:** ~$95-160/person (activities only)
-
----
-
-# Option 5: Max Activities (Skip Walkway)
-
-*All action, no scenic walks*
-
-## Thursday (Jan 22) - Arrival
-- Arrive, settle in, stock up
-- Hang at house, eat & drink
-
-## Friday (Jan 23)
-| Time | Activity | Notes |
-|------|----------|-------|
-| Breakfast | At house | Big breakfast |
-| 10am-12pm | Mid-Hudson Sporting Clays | 22 min, $50-80/person, outdoor |
-| | → 15 min drive → | |
-| 1pm-3pm | Tuthilltown Distillery | $30-50/person |
-| | → 25 min back to house → | |
-| Evening | Dinner & drinks at house | |
-
-## Saturday (Jan 24)
-| Time | Activity | Notes |
-|------|----------|-------|
-| Breakfast | At house | |
-| 11am-1pm | RPM Raceway Go-Karts | 25 min, $25-50/person |
-| | → 25 min back to house → | |
-| Lunch | At house | |
-| 2pm-4pm | SafeShoot Indoor Range | Only 12 min, $40-60/person |
-| | → 12 min back to house → | |
-| Evening | Final dinner at house | |
-
-**Budget:** ~$145-220/person (activities only)
-
----
-
-# Quick Comparison
-
-| Option | Friday | Saturday | Total Cost | Driving |
-|--------|--------|----------|------------|---------|
-| **1** | Distillery + Go-Karts | Walkway (+SafeShoot?) | $105-180 | Moderate |
-| **2** | Sporting Clays + Distillery | Walkway | $80-130 | Moderate |
-| **3** | Distillery + Sporting Clays | Walkway + Go-Karts | $130-210 | Most |
-| **4** | Distillery + Go-Karts | SafeShoot | $95-160 | Least |
-| **5** | Sporting Clays + Distillery | Go-Karts + SafeShoot | $145-220 | Moderate |
-
----
-
-# Weather Considerations
-
-**If Friday is cold/wet:**
-- Swap Sporting Clays → SafeShoot (indoor, 12 min from house)
-- Distillery and Go-Karts are both indoor - no change needed
-
-**If Saturday is cold/wet:**
-- Swap Walkway → SafeShoot or extra time at Go-Karts
-- Consider adding Wreck Room (rage room) at Poughkeepsie Galleria - same location as Go-Karts
+### Day Of
+- [ ] Morning weather check before Walkway
+- [ ] Bring confirmation numbers/emails
+- [ ] Dress warmly (layers, windproof jacket, gloves)
 
 ---
 
@@ -226,30 +168,55 @@
 - **Address:** 14 Grist Mill Ln, Gardiner, NY
 - **Hours:** Fri 12pm-8pm, Sat 12pm-8pm
 - **Cost:** $30/person tour + tasting, $50/person cocktail workshop
-- **Book:** [tuthilltowndistillery.com](https://www.tuthilltowndistillery.com/)
+- **Book:** [tuthilltowndistillery.com](https://www.tuthilltowndistillery.com/) or [reservehudson.com](https://www.reservehudson.com)
 - First whiskey distillery in NY since Prohibition
-
-## Mid-Hudson Sporting Clays
-- **Distance:** 15 mi / 22 min from house
-- **Cost:** $50-80/person
-- **Details:** 32 stations, world-class outdoor course, gun rentals available
-- **Website:** [midhudsonsporting.com](https://midhudsonsporting.com/)
 
 ## SafeShoot Indoor Range
 - **Address:** 10 Kieffer Ln, Kingston, NY
 - **Distance:** 6 mi / 12 min from house
+- **Hours:** Sat 9am-5pm (confirm when booking)
 - **Cost:** $40-60/person
 - **Phone:** (845) 443-7727
 - 24 lanes, climate controlled, gun rentals available
+- **Note:** Appointments required
 
-## RPM Raceway Go-Karts
-- **Location:** Poughkeepsie Galleria
+## All In Adventures (RPM Replacement)
+- **Location:** Poughkeepsie Galleria, 2001 South Rd
 - **Distance:** 18 mi / 25 min from house
-- **Cost:** $25-50/person
-- Indoor electric go-karts up to 45mph
+- **Hours:** Sat 11am-6pm
+- **Cost:** $30-50/person
+- **Phone:** (845) 218-0002
+- Escape rooms + axe throwing, bachelor party packages available
+
+## Wreck Room HV (Optional Add-On)
+- **Location:** Poughkeepsie Galleria, 2nd floor near Macy's
+- **Cost:** $30-60/person
+- **Phone:** (845) 297-7600
+- Rage room - smash stuff for stress relief
+- Walk-ins accepted but booking preferred
 
 ## Walkway Over the Hudson
 - **Distance:** 18 mi / 25 min from house
 - **Cost:** FREE
+- **Hours:** 7am-5pm (winter)
+- **Parking:** Pulaski Park, 162 Washington St (NOT Parker Ave - closed for construction)
 - World's longest elevated pedestrian bridge (1.28 miles)
-- Note: Elevator closed Jan-Apr, stairs accessible
+- **Note:** Elevator closed Jan-Apr, use stairs. May close in bad weather.
+
+---
+
+# Quick Comparison
+
+| Plan | Activities | Total Cost | Weather Dependent? |
+|------|------------|------------|-------------------|
+| **Good Weather** | Walkway + All In Adventures + SafeShoot | $100-170 | Yes (Walkway) |
+| **Bad Weather** | SafeShoot + All In Adventures + Wreck Room | $100-200 | No |
+
+---
+
+# Emergency Contacts
+
+- **SafeShoot Indoor Range:** (845) 443-7727
+- **All In Adventures:** (845) 218-0002
+- **Wreck Room HV:** (845) 297-7600
+- **Tuthilltown Distillery:** (845) 633-8734
